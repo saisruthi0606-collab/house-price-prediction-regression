@@ -23,9 +23,11 @@ It predicts house prices based on input features using a trained ML model and pr
 🗂️ Project Structure
 
 ml project/
+
 │
 
 ├── templates/
+
 │   └── index.html          # Frontend HTML file
 
 
