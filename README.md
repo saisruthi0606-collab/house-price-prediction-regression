@@ -6,6 +6,7 @@ It predicts house prices based on input features using a trained ML model and pr
 
 
 📌 Project Overview
+
 1.Built a machine learning model to predict house prices
 
 2.Trained the model on a structured dataset
@@ -20,27 +21,39 @@ It predicts house prices based on input features using a trained ML model and pr
 
 
 🗂️ Project Structure
+
 ml project/
 │
+
 ├── templates/
 │   └── index.html          # Frontend HTML file
+
+
 ├── app.py                  # Flask application
+
 ├── model.py                # Model training script
+
 ├── dataset.py              # Dataset handling / preprocessing
+
 ├── house_prices.csv        # Dataset
+
 ├── house_price_model.joblib# Trained ML model
+
 ├── index.html              # Sample or testing HTML file
+
 └── README.md               # Project documentation
 
 
 
 ⚙️ Technologies Used
+
 Python,Machine Learning,Flask,HTML,Pandas,NumPy,Scikit-learn,Joblib
 
 
 
 
 🚀 How It Works
+
 1.Dataset is loaded and preprocessed
 
 2.Machine learning model is trained using Scikit-learn
@@ -57,6 +70,7 @@ Python,Machine Learning,Flask,HTML,Pandas,NumPy,Scikit-learn,Joblib
 
 
 ▶️ How to Run the Project
+
 1.Clone the repository
 
 2.git clone https://github.com/your-username/house-price-prediction.git
@@ -81,6 +95,7 @@ Python,Machine Learning,Flask,HTML,Pandas,NumPy,Scikit-learn,Joblib
 
 
 📊 Output
+
 #Takes user input from the web page
 
 #Predicts house price using trained ML model
