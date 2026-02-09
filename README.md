@@ -75,7 +75,7 @@ Python,Machine Learning,Flask,HTML,Pandas,NumPy,Scikit-learn,Joblib
 
 1.Clone the repository
 
-2.git clone https://github.com/your-username/house-price-prediction.git
+2.git clone https://github.com/saisruthi0606-collab/house-price-prediction-regression
 
 3.Navigate to the project folder
 
