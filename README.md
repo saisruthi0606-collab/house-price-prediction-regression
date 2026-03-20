@@ -5,7 +5,7 @@ It predicts house prices based on input features using a trained ML model and pr
 
 
 
-📌 Project Overview
+📌 Project Overview:
 
 1.Built a machine learning model to predict house prices
 
